@@ -1,5 +1,7 @@
 {
   "name": "FileTrans",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
